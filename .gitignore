@@ -1,0 +1,5 @@
+.git
+.env
+.DS_STORE
+.ftpconfig
+node_modules/
